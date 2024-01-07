@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhost=self.webpackChunkhost||[]).push([[654],{654:(s,e,h)=>{h.r(e),h.d(e,{default:()=>n});var t=h(322);h(784);const n=function(){return(0,t.jsx)("h1",{children:"Shop"})}}}]);
